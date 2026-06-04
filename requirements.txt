@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+aiomysql
+cryptography
+python-jose[cryptography]
+passlib[bcrypt]
+PySide6
+qasync
+requests
+httpx
+pydantic[email]
+python-dotenv
+cloudinary
+pypdf
